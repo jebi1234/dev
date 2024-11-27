@@ -1,2 +1,1 @@
-print("egegfg")
-print("Hello World")
+print("DEv")
